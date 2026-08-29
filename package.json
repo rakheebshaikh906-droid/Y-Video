@@ -4,7 +4,7 @@
   "description": "this was a mega project with backend ",
   "license": "ISC",
   "author": "shaikh abdul rakheeb",
-  "type": "commonjs",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon src/index.js"
