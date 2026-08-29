@@ -1,0 +1,12 @@
+{
+  "name": "youtube-clone",
+  "version": "1.0.0",
+  "description": "this was a mega project with backend ",
+  "license": "ISC",
+  "author": "shaikh abdul rakheeb",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  }
+}
